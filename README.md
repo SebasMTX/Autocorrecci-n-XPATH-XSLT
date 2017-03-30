@@ -27,3 +27,9 @@ Se introduce el código que mostrará la nota al final de la tabla presentada.
 Se introduce código _css_ al inicio de la página _questions.xsl_ para que muestre la tabla resultante con el mismo formato que el formulario y de esta manera quede integrada en el conjunto de la página. 
 
 https://cdn.rawgit.com/SebasMTX/Autocorrecci-n-XPATH-XSLT/9cfd6e9c/inicio.html
+
+## Versión minified
+
+Se crea una nueva _Branch_ con la versión _minified_ del examen de autocrrección.
+
+https://cdn.rawgit.com/SebasMTX/Autocorrecci-n-XPATH-XSLT/tree/XPath-Minify
