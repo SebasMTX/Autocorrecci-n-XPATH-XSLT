@@ -8,7 +8,7 @@ Se modifican las funciones **_ponerDatosHtml_** para leer los nodos resuktantes 
 ## Creación del fichero _xsl_
 
 Con los datos obtenidos del tutor de la tarea se crea el fichero _questiosn.xls_, enlazándolo con el archivo _questions.xml_ de tal forma que permita visualizar la transformación simple de las preguntas al abrir éste último fichero desde un navegador.
-La tabla presentada mostrará todas las preguntas, las opciones posibles y las respuestas.
+La tabla presentada mostrará todas las preguntas, las opciones posibles y las respuestas:
 
 https://cdn.rawgit.com/SebasMTX/Autocorrecci-n-XPATH-XSLT/ac2be70e/xml/questions.xml
 
@@ -30,6 +30,6 @@ https://cdn.rawgit.com/SebasMTX/Autocorrecci-n-XPATH-XSLT/9cfd6e9c/inicio.html
 
 ## Versión minified
 
-Se crea una nueva _Branch_ con la versión _minified_ del examen de autocrrección.
+Se crea una nueva _Branch_ con la versión _minified_ del examen de autocorrección:
 
-https://cdn.rawgit.com/SebasMTX/Autocorrecci-n-XPATH-XSLT/tree/XPath-Minify
+https://github.com/SebasMTX/Autocorrecci-n-XPATH-XSLT/blob/XPath-Minify/inicio.html
