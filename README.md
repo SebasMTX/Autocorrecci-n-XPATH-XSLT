@@ -23,3 +23,5 @@ Se introduce el código que mostrará la nota al final de la tabla presentada.
 ## Estilo a la tabla resultante _XLS_
 
 Se introduce código _css_ al inicio de la página _questions.xsl_ para que muestre la tabla resultante con el mismo formato que el formulario y de esta manera quede integrada en el conjunto de la página. 
+
+https://cdn.rawgit.com/SebasMTX/Autocorrecci-n-XPATH-XSLT/9cfd6e9c/inicio.html
