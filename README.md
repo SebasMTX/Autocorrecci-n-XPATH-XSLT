@@ -10,6 +10,8 @@ Se modifican las funciones **_ponerDatosHtml_** para leer los nodos resuktantes 
 Con los datos obtenidos del tutor de la tarea se crea el fichero _questiosn.xls_, enlazándolo con el archivo _questions.xml_ de tal forma que permita visualizar la transformación simple de las preguntas al abrir éste último fichero desde un navegador.
 La tabla presentada mostrará todas las preguntas, las opciones posibles y las respuestas.
 
+https://cdn.rawgit.com/SebasMTX/Autocorrecci-n-XPATH-XSLT/ac2be70e/xml/questions.xml
+
 ## Incluir el código para forzar al usuario a responder a todas las preguntas.
 
 Se incluye en el código de _javaScript_ la función de comprobar para que verifique que todas las preguntas han sido respondidas y muestre un mensaje de advertencia en el caso de no ser así, obligando a su cumplimentación.
