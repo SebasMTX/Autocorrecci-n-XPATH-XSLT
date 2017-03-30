@@ -5,7 +5,7 @@
 Se modifican los accesos al objeto **_xmlDoc_**, que corresponden al documento xml leído, para obtener las opciones de tipo select, select multiple, checkbox y radio por medio de _Xpath_.
 Se modifican las funciones **_ponerDatosHtml_** para leer los nodos resuktantes de la búsqueda con _Xpath_.
 
-## Creación del fichero _xls_
+## Creación del fichero _xsl_
 
 Con los datos obtenidos del tutor de la tarea se crea el fichero _questiosn.xls_, enlazándolo con el archivo _questions.xml_ de tal forma que permita visualizar la transformación simple de las preguntas al abrir éste último fichero desde un navegador.
 La tabla presentada mostrará todas las preguntas, las opciones posibles y las respuestas.
